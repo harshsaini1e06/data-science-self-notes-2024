@@ -1,0 +1,10 @@
+jecrc created :-
+image
+audio
+text
+pdf
+
+
+uses these files and create the folders respectively and place them in therie relative folders
+
+hint--> os, shutil (library) ( copy-> copy tree(function), (another function used to filter the files))
